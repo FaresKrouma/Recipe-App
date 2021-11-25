@@ -1,0 +1,14 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap");
+
+* {
+   box-sizing: border-box;
+   font-family: "poppins", sans-serif;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background: #ddd;
+   max-height: 100vh;
+}
